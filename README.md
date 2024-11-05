@@ -1,7 +1,15 @@
 # Conv2D-LSTM
-combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks 
+Combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks 
+
+ Warning: run only Hm Node
+
+developed in indian institute of technology kharagpur
+
+by Subhadeep Maishal  
 
 
+#examples
+![Figure](https://github.com/subhadeep-maishal/Conv2D-LSTM/blob/main/conv2D%2BLSTM.png) 
 
 
 
