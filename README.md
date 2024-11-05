@@ -1,5 +1,5 @@
 # Conv2D-LSTM
-Combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks 
+Combination of 2D Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks 
 
  Warning: run only Hm Node
 
