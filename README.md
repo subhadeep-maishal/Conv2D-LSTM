@@ -8,7 +8,7 @@ developed in indian institute of technology kharagpur
 by Subhadeep Maishal  
 
 
-#examples
+examples : 
 ![Figure](https://github.com/subhadeep-maishal/Conv2D-LSTM/blob/main/conv2D%2BLSTM.png) 
 
 
