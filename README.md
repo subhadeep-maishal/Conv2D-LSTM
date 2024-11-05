@@ -99,7 +99,7 @@ This architecture effectively leverages spatial feature extraction from the **Co
 
 ## 🚀 Conclusion
 
-By combining **Conv2D** and **LSTM**, we harness the strengths of both convolutional and recurrent networks, making this architecture suitable for a variety of applications, including:
+By combining **Conv2D** and **LSTM**, * harness the strengths of both convolutional and recurrent networks, making this architecture suitable for a variety of applications, including:
 
 - Oceanic predictions
 - Time series forecasting 📈
